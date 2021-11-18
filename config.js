@@ -18,7 +18,7 @@ DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBU
 module.exports = {
     VERSION: 'v7.3.6',
     CHANNEL: 'https://t.me/remasterplugin',
-    SESSION: process.env.AMALSER_CODE === undefined ? '' : process.env.AMALSER_CODE,
+    SESSION: process.env.PONNUTTY_CODE === undefined ? '' : process.env.PONNUTTY_CODE,
     ANTİLİNK: process.env.ANTİ_LİNK === undefined ? 'false' : process.env.ANTİ_LİNK,
     AUTOBİO: process.env.AUTO_BİO === undefined ? 'false' : process.env.AUTO_BİO,
     GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://i.hizliresim.com/loUtAb.jpg' : process.env.GAN_IMAGE,
@@ -28,10 +28,10 @@ module.exports = {
     BLOCKCHAT: process.env.BLOCK_CHAT === undefined ? false : process.env.BLOCK_CHAT,
     WELCOME: process.env.WELCOME === undefined ? 'pp' : process.env.WELCOME,
     OWNER: process.env.OWNER_NAME === undefined ? 'default' : process.env.OWNER_NAME,
-    PHONE: process.env.NUMBER === undefined ? '+919895828468' : process.env.NUMBER,   
-    OA_NAME: process.env.DEPLOYER === undefined ? 'Amalser' : process.env.DEPLOYER,
-    ALL: process.env.ALL_CAPTION === undefined ? 'Made By Amalser' : process.env.ALL_CAPTION,
-    MENTION: process.env.TAG_REPLY === undefined ? '919072790587@s.whatsapp.net' : process.env.TAG_REPLY,
+    PHONE: process.env.NUMBER === undefined ? '+917902503309' : process.env.NUMBER,   
+    OA_NAME: process.env.DEPLOYER === undefined ? 'vijaysir' : process.env.DEPLOYER,
+    ALL: process.env.ALL_CAPTION === undefined ? 'Made By vijay sir' : process.env.ALL_CAPTION,
+    MENTION: process.env.TAG_REPLY === undefined ? '917902503309@s.whatsapp.net' : process.env.TAG_REPLY,
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
     PLKS: process.env.THERI_LIST === undefined ? false : process.env.THERI_LIST,
     AFPLK: process.env.YT_PASSWORD === undefined ? false : process.env.YT_PASSWORD,
@@ -71,7 +71,7 @@ module.exports = {
     HANDLERS: process.env.HANDLERS === undefined ? '^[.!;]' : process.env.HANDLERS,
     TAGPLK: process.env.TAG_HEADER === undefined ? 'Note this' : process.env.TAG_HEADER,
     SEND_READ: process.env.SEND_READ === undefined ? false : convertToBool(process.env.SEND_READ),
-    YAK: process.env.YAK === undefined ? '918921483992,0' : process.env.YAK,
+    YAK: process.env.YAK === undefined ? '917902503309,0' : process.env.YAK,
     BRANCH: 'master',
     HEROKU: {
         HEROKU: process.env.HEROKU === undefined ? false : convertToBool(process.env.HEROKU),
@@ -85,8 +85,8 @@ module.exports = {
     SUDO: process.env.SUDO === undefined ? false : process.env.SUDO,
     DEBUG: DEBUG,
     WITAI_API: "TEYMELA6DMC4XB5YM3SPTTQWUUIBKURG",
-    MAHN: "919072790587,0",
-    SUPPORT: "919072790587-1635775355",
-    SUPPORT2: "905511384572-1617736751",
-    SUPPORT3: "905511384572-1621015274"
+    MAHN: "917902503309,0",
+    SUPPORT: "917902503309-1635775355",
+    SUPPORT2: "917902503309-1617736751",
+    SUPPORT3: "917902503309-1621015274"
 };
